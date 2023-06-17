@@ -2,3 +2,6 @@
 body{
 	background-color:yellow;
 }
+div{
+	display:inline;
+}
